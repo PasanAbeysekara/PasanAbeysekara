@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pasankavindaabey@gmail.com**
 
-- 📄 Know about my experiences [https://engugruhaclk-my.sharepoint.com/:b:/g/personal/abeysekara_pk_e22_engug_ruh_ac_lk/EcRZgOT_kI5Gga1_nZAu4TABDm7FGUNygNZFPnof_z4iHQ?e=j3mJ0n](https://engugruhaclk-my.sharepoint.com/:b:/g/personal/abeysekara_pk_e22_engug_ruh_ac_lk/EcRZgOT_kI5Gga1_nZAu4TABDm7FGUNygNZFPnof_z4iHQ?e=j3mJ0n)
+- 📄 Know about my experiences [https://engugruhaclk-my.sharepoint.com/:b:/g/personal/abeysekara_pk_e22_engug_ruh_ac_lk/EcRZgOT_kI5Gga1_nZAu4TABDm7FGUNygNZFPnof_z4iHQ?e=j3mJ0n](https://bit.ly/3fYLCGf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
