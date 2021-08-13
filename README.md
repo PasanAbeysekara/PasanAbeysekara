@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://freehostingpasanwebsite.web.app/](https://freehostingpasanwebsite.web.app/)
+- 👨‍💻 All of my projects are available at [My Web Site](https://freehostingpasanwebsite.web.app/)
 
-- 📝 Sometimes I write articles on [https://dev.to/pasanabeysekara](https://dev.to/pasanabeysekara)
+- 📝 Sometimes I write articles on [Dev](https://dev.to/pasanabeysekara)
 
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **pasankavindaabey@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3fYLCGf](https://bit.ly/3fYLCGf)
+- 📄 Know about my experiences [My Resume](https://bit.ly/3fYLCGf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
