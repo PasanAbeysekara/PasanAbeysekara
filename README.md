@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pasankavindaabe" target="blank"><img src="https://img.shields.io/twitter/follow/pasankavindaabe?logo=twitter&style=for-the-badge" alt="pasankavindaabe" /></a> </p>
 
-- 🔭 I’m currently pursuing my **1nd year Bachelor's Computer Engineering degree** in **University of Ruhuna**
+- 🔭 I’m currently pursuing my **1st year** in **Bachelor's Computer Engineering degree** in **University of Ruhuna**
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development in ASP.NET**
 
