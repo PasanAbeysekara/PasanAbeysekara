@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/pasankavindaabe" target="blank"><img src="https://img.shields.io/twitter/follow/pasankavindaabe?logo=twitter&style=for-the-badge" alt="pasankavindaabe" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🔭 I’m currently pursuing my 1nd year Bachelor's Computer Engineering degree in University of Ruhuna
+
+- 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development in ASP.NET**
 
 - 👨‍💻 All of my projects are available at [My Web Site](https://freehostingpasanwebsite.web.app/)
 
 - 📝 Sometimes I write articles on [Dev](https://dev.to/pasanabeysekara)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django & React**
 
 - 📫 How to reach me **pasankavindaabey@gmail.com**
 
