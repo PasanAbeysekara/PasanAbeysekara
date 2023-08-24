@@ -1,6 +1,7 @@
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc8oiwotonvqvkw61vimh0kks&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pc8oiwotonvqvkw61vimh0kks&redirect=true)
 
-💖 
+
 
 <h2> Hey Profile Visitor 👀</h2>
 <h1 align="center">Hi 👋, I'm Pasan Abeysekara</h1>
