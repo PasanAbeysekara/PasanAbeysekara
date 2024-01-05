@@ -6,7 +6,9 @@
 
 
 <h2> Hey Profile Visitor 👀</h2>
+
 <h1 align="center">Hi 👋, I'm Pasan Abeysekara</h1>
+
 <h3 align="center">Full-Stack developer from Colombo,Sri Lanka. I'm passionate about tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanabeysekara&label=Profile%20views&color=0e75b6&style=flat" alt="pasanabeysekara" /> </p>
