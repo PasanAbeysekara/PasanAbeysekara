@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development in ASP.NET**
 
-- 👨‍💻 All of my projects are available at [My Web Site]()
+- 👨‍💻 All of my blogs are available at [My Blog Site](https://pasan-bytes-blog.vercel.app/)
 
 - 💬 Ask me about **Django & React**
 
