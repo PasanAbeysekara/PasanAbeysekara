@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasanabeysekara" alt="pasanabeysekara" /></a> </p>
 
-- 🔭 I’m currently pursuing my **2nd year** in **Bachelor's Computer Engineering degree** in **University of Ruhuna**
+- 🔭 I’m currently pursuing my **3rd year** in **Bachelor's Computer Engineering degree** in **University of Ruhuna**
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development in ASP.NET**
 
