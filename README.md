@@ -10,8 +10,6 @@
 
 <h1 align="center">Hi 👋, I'm Pasan Abeysekara</h1>
 
-<h3 align="center">Full-Stack developer from Colombo,Sri Lanka. I'm passionate about tech</h3>
-
 ## 📝 Blogs
 
 - Personal blog : https://pasan-bytes-blog.vercel.app/
