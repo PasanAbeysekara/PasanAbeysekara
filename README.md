@@ -35,7 +35,7 @@
 ![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 ![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 ![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![AWS S3](https://img.shields.io/badge/Compute-AWS_S3-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
