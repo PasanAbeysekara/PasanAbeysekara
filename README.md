@@ -10,10 +10,11 @@
 
 <h1 align="center">Hi 👋, I'm Pasan Abeysekara</h1>
 
-## 📝 Visit Me
+<!-- ## 📝 Visit Me
 
 - Personal blog : https://pasan-bytes-blog.vercel.app/
 - Portforlio website : https://pasan-bytes-portfolio.vercel.app/
+--!>
 
 ### 📔 Latest Blog posts
 
