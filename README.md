@@ -83,6 +83,6 @@
 <a href="https://linkedin.com/in/pasan-kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasan-kavinda" height="30" width="40" /></a>
 <a href="https://g.dev/pasankavinda" target="blank"><img align="center" src="https://i.ibb.co/hXZdHKg/Google-logo-design-isolated-illustration-premium-vector-PNG.png"  alt="walter_ffffff" height="30" width="30" /></a>
 <a href="https://kaggle.com/pasankavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pasankavinda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pasan3799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pasankavindaabey" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/EG_2020_3799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pasankavindaabey" height="30" width="40" /></a>
 </p>
 
