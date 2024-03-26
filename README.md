@@ -13,6 +13,7 @@
 ## 📝 Visit Me
 
 - Personal blog : [Blog](https://pasan-bytes-blog.vercel.app/categories/all)
+- Email : [pasankavindaabey@gmail.com](mailto:pasankavindaabey@gmail.com)
 
 
 ### 📔 Latest Blog posts
