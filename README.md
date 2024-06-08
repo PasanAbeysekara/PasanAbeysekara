@@ -4,12 +4,6 @@
   </a>
 </div>
 
-<h2> Hey Profile Visitor 👀</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanabeysekara&label=Profile%20views&color=0e75b6&style=flat" alt="pasanabeysekara" /> </p>
-
-<h1 align="center">Hi 👋, I'm Pasan Abeysekara</h1>
-
 ## 📝 Visit Me
 
 - Personal blog : [Blog](https://pasan-bytes-blog.vercel.app/categories/all)
