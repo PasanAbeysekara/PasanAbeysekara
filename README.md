@@ -11,27 +11,6 @@
 - Email : [pasankavindaabey@gmail.com](mailto:pasankavindaabey@gmail.com)
 
 
-### 📔 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [AWS Amplify: Accelerating The Development Of Full-Stack Applications](https://pasan-bytes-blog.vercel.app/blogs/aws-amplify-full-stack-developmen)
-- [AWS API Gateway: Paving The Way For Scalable And Secure APIs](https://pasan-bytes-blog.vercel.app/blogs/aws-api-gateway-scalable-secure-apis)
-- [Optimizing Serverless Applications With AWS Lambda: Strategies For Efficiency And Scalability](https://pasan-bytes-blog.vercel.app/blogs/serverless-aws-lambda-optimization-strategies)
-- [Mastering Redux: A Comprehensive Guide For State Management](https://pasan-bytes-blog.vercel.app/blogs/redux-state-management-comprehensive-guide)
-- [Building Scalable React Applications: Embracing Component-Based Architecture](https://pasan-bytes-blog.vercel.app/blogs/scalable-react-component-architecture)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔧 Technologies & Tools
-
-**Cloud Services:**
-
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-
 **Programming Languages:**
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
