@@ -13,16 +13,45 @@
 
 **Programming Languages:**
 
-![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+
+**Frameworks and Libraries:**
+
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![Express](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
+![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![AWS](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
+![Azure](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=6aa6f8)
+![GCP](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![Jenkins](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6aa6f8)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6aa6f8)
+
+**Databases:**
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+
 
 ## 🗂️ Highlight Projects
 
