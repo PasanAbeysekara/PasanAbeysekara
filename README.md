@@ -24,11 +24,6 @@
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PasanAbeysekara&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/PasanAbeysekara/blockchain-based-voting-system-using-solidity-and-hardhat">
