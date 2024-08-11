@@ -20,7 +20,7 @@
 
 **Tools and Services:**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,gcp,git,jenkins,postman,terraform&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,git,jenkins,postman,terraform&theme=dark&perline=13"/>
 
 **Databases:**
 <br/><br/>
