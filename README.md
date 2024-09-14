@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanabeysekara&label=Profile%20views&color=0e75b6&style=flat" alt="pasanabeysekara" /> </p>
 
-## 📝 Visit Me
+## About Me
 - 🛠 SE Intern at [WSO2](https://wso2.com/)
 - 🎓 Undergraduate at University of Ruhuna, BSc Computer Engineering
 - 🌱 Fullstack dev
