@@ -3,17 +3,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PasanAbeysekara&color=blue&style=flat-square)
 
----
 
 </div>
 
-
+<!--
 ```ascii
                                             ┌──────────────────────────────────────────┐
                                             │    ⚡ SYSTEM INITIALIZATION COMPLETE     │
                                             └──────────────────────────────────────────┘
 ```
-
+-->
 ```yaml
 version: 2.3.2
 last_updated: 2025-01-14
