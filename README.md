@@ -94,7 +94,7 @@ skills:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasanAbeysekara&show_icons=true&theme=github_dark&hide_border=true)
 
 </div>
--->
+
 ```ascii
                                           ┌──────────────────────────────────────────┐
                                           │         CURRENT SYSTEM STATUS            │
@@ -114,3 +114,4 @@ daily_routine:
   - "🐛 Debug"
   - "🔄 Repeat"
 ```
+-->
