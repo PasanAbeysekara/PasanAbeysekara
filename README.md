@@ -36,7 +36,7 @@ contact:
   stackoverflow: "stackoverflow.com/users/13503639/pasan"
   kaggle: "kaggle.com/pasankavinda"
 ```
-
+<!-- 
 ```ascii
                                             ┌──────────────────────────────────────────┐
                                             │           SYSTEM SPECIFICATIONS          │
@@ -94,7 +94,7 @@ skills:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasanAbeysekara&show_icons=true&theme=github_dark&hide_border=true)
 
 </div>
-
+-->
 ```ascii
                                           ┌──────────────────────────────────────────┐
                                           │         CURRENT SYSTEM STATUS            │
