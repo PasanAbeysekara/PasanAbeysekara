@@ -15,7 +15,7 @@
 ```
 
 ```yaml
-version: 1.0.0
+version: 2.3.2
 last_updated: 2025-01-14
 maintainer: PASAN
 status: Online 🟢
