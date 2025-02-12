@@ -14,7 +14,6 @@
 ```
 -->
 ```yaml
-version: 2.3.2
 last_updated: 2025-01-14
 maintainer: PASAN
 status: Online 🟢
@@ -22,7 +21,7 @@ status: Online 🟢
 personal:
   name: "PASAN ABEYSEKARA"
   title: "Software Engineer"
-  location: "127.0.0.1"
+  location: "Piliyandala, Colombo, Sri Lanka"
   current_occupation: "SE Intern @ WSO2"
   education: 
     university: "University of Ruhuna"
