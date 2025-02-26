@@ -32,7 +32,7 @@ contact:
   email: "pasankavindaabey@gmail.com"
   linkedin: "linkedin.com/in/pasan-kavinda"
   stackoverflow: "stackoverflow.com/users/13503639/pasan"
-  kaggle: "kaggle.com/pasankavinda"
+  medium: "medium.com/@pasankavi"
 ```
 <!-- 
 ```ascii
