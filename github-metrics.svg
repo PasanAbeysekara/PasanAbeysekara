@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1157" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1160" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">CE Undergrad | Doing SE 🐱‍👤 | Ex Intern @wso2</div>
+                        <div class="introduction">CE Undergrad | Open Source Contributor ♨️ | Ex Intern @wso2</div>
                     </section>
                 </div>
             </section>
@@ -1491,7 +1491,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2025, 14:13:46 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 14:38:12 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
