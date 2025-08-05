@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_NEW_TOKEN }}
 
           # Options
           user: PasanAbeysekara
